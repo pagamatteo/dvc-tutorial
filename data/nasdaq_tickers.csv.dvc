@@ -1,0 +1,4 @@
+outs:
+- md5: 7d7fbcaf22d9062198df9befc4792f23
+  size: 1088629
+  path: nasdaq_tickers.csv
